@@ -317,4 +317,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_-rG2MkmpEeaKZrqoFwFmgQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_-8QQkEmpEeaKZrqoFwFmgQ" login="liang@talend.com" firstName="xia" lastName="liang" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_bd4CQUo_EeaS-v6TjK55ew" login="xia@talend.com" firstName="xia" lastName="liang" type="DI" additionnalData="{}"/>
 </xmi:XMI>
